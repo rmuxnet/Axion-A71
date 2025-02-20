@@ -2,8 +2,7 @@
 
 ![AxionAOSP Logo](https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/66b3ea6b437be789ded213fd_45.png)
 
-A custom ROM based on Android Open Source Project (AOSP), tailored for the **Samsung Galaxy A71**.  
-Focusing on stability, performance, and a clean Android experience.
+A custom ROM based on Android Open Source Project (AOSP).
 
 ---
 
@@ -20,8 +19,7 @@ Focusing on stability, performance, and a clean Android experience.
 ---
 
 ### 🐛 Reporting Issues
-Found a bug? Open an issue [here](https://github.com/rmuxnet/Axion-A71/issues) with:  
-- Device model  
+Found a bug? Open an issue [here](https://github.com/rmuxnet/Axion-A71/issues) with:   
 - Logs (if applicable)  
 - Steps to reproduce  
 
